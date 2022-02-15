@@ -1958,7 +1958,7 @@ input, select, textarea {
 	}
 
 	::-webkit-input-placeholder {
-		color: #b2b2b2 !important;
+		color: #000000 !important;
 		opacity: 1.0;
 	}
 
